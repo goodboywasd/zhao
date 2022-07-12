@@ -1,0 +1,5 @@
+/home/zhao/C-code/7.8makefile/build/CMakeFiles/rebuild_cache.dir
+/home/zhao/C-code/7.8makefile/build/CMakeFiles/edit_cache.dir
+/home/zhao/C-code/7.8makefile/build/bin/CMakeFiles/rebuild_cache.dir
+/home/zhao/C-code/7.8makefile/build/bin/CMakeFiles/edit_cache.dir
+/home/zhao/C-code/7.8makefile/build/bin/CMakeFiles/hello.dir
